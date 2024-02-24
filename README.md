@@ -11,7 +11,7 @@ Hi, I'm Josh, I am a second year Computer Science Student, who is interested in 
 * 💻 VSC
 * 📱 Android Studio
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joshrtust)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/joshrtust)  
 
 
 
