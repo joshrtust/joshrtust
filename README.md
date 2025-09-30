@@ -1,5 +1,5 @@
 # Joshua
-Hi, I'm Josh, I am a third year Computer Science Student, who is interested in innovation, and building awesome projects!
+Hi, I'm Josh, I am a fourth year Computer Science Student, who is interested in AI/ML, cybersecurity, and building cool things!
 
 - ⚡ Fun facts about me: I'm Canadian 🍁, and I love playing the guitar 🎸, and riding motorcycles 🏍️!
 
